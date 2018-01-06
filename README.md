@@ -1,13 +1,13 @@
-## BlogCatalog数据集
-Multi-label classification
+## BlogCatalog数据集(Multi-label classification)
+    micro-f1: 0.37835379718053663
+    macro-f1: 0.2627962010263654
 
 
-### Resutl
 
 
 ## Facebook数据集
 
-### Resutl
+
 
 
 ## Reference
