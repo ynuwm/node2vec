@@ -11,7 +11,7 @@
 
 
 ### Reference
-论文: <a href="https://arxiv.org/abs/1607.00653"> </a>
+论文: https://arxiv.org/abs/1607.00653
  
 官网: http://snap.stanford.edu/node2vec/
 
